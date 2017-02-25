@@ -1,0 +1,15 @@
+{
+  "name": "steem_golos service",
+  "version": "1.0.0",
+  "description": "Connector to monitor changes to steem wallet for TxBits based exchanges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wbanks@vivaco.in",
+  "license": "ISC",
+  "dependencies": {
+    "steem": "^0.4.6",
+    "pg_promise": "*"
+  }
+}

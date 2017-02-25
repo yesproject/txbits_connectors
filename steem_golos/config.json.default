@@ -1,0 +1,9 @@
+{
+    "host": "localhost",
+    "database": "",
+    "user" : "",
+    "password" : "",
+    "account" : "",
+    "goloskey" : "",
+    "steemkey" : ""
+}
